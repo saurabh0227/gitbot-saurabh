@@ -1,7 +1,7 @@
 {
-  "name": "gitbot_saurabh",
+  "name": "gibot_saurabh",
   "version": "1.0.0",
-  "description": "Gitbot assignment",
+  "description": "Gibot assignment",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
